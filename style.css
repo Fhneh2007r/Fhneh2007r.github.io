@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(yellow,red,lightblue)
+}
+li{
+ box-shadow: 3px 5px 10px 0 black;
+ font-size: 20px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+.link-header:hover{
+    background-image: linear-gradient(lightblue, white);
+    
+    
+    }
+    p{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
